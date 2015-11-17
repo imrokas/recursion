@@ -24,7 +24,14 @@ var parseJSON = function(json) {
 	// main parsing function that sorts witch json value parseJSON has to deal with
 	var value = function() {
 		white(); //consume any preceding white spaces
-
+		// is object
+		// is array
+		// is string
+		// is boolean
+		// is null
+		// else
+				// is number
+				// else must be error
 	};
 
 	//initialization of values and first call to function
