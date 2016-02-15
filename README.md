@@ -7,8 +7,6 @@ This is a project I completed as a student at Hack Reactor. This project was wor
 - parseJSON()
 - stringifyJSON()
 
-**Some code may be written in ES6 and may require to be transpiled in order to be tested**.
-
 ### Testing
 
 Tests are made with the [Mocha](https://github.com/mochajs/mocha) testing framework.
